@@ -14,7 +14,7 @@ const steps = [
     {
         title: "Cultivate Your Garden",
         description: "Build a beautiful garden that reflects your dedication to the Sunnah",
-        image: "/images/garden-grow.webp"
+        image: "/images/grow-garden.webp"
     }
 ]
 
