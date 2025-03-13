@@ -4,7 +4,7 @@ const steps = [
     {
         title: "Track Your Sunnah",
         description: "Click and record the Sunnah practices you've performed throughout your day",
-        image: "/images/click-sunnah.webp"
+        image: "/images/sunnah-click.webp"
     },
     {
         title: "Watch Your Flower Grow",
