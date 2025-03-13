@@ -9,7 +9,7 @@ const steps = [
     {
         title: "Watch Your Flower Grow",
         description: "See your flower flourish as you consistently follow more Sunnah practices",
-        image: "/images/flower.webp"
+        image: "/images/flower-bloom.gif"
     },
     {
         title: "Cultivate Your Garden",
